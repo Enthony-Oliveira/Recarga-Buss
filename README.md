@@ -15,7 +15,7 @@ O **Recarga Buss** permite que o usuário crie uma conta, cadastre seu cartão, 
 
 ## 🎯 Motivação
 
-Na cidade do autor **não existe um aplicativo para recarregar o cartão Vale Sim**. Quem depende do transporte coletivo, principalmente estudantes, precisa se deslocar até um ponto de recarga, o que gera filas, perda de tempo e dificuldade de acesso.
+Na cidade de cascavel **não existe um aplicativo para recarregar o cartão Vale Sim**. Quem depende do transporte coletivo, principalmente estudantes, precisa se deslocar até um ponto de recarga, o que gera filas, perda de tempo e dificuldade de acesso.
 
 O Recarga Buss nasceu para resolver um problema real da comunidade: levar a recarga para o celular, de forma simples, com pagamento digital, acompanhamento do saldo de passagens e controle do benefício de meia-passagem.
 
