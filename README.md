@@ -13,6 +13,14 @@ Aplicativo mobile para **recarga e acompanhamento de passagens de ônibus**, com
 
 O **Recarga Buss** permite que o usuário crie uma conta, cadastre seu cartão, compre passagens por **PIX** ou **cartão** e acompanhe em tempo real quantas passagens comprou, usou e ainda tem disponíveis. Estudantes podem enviar a declaração de matrícula para ativar o valor de meia-passagem, e o app avisa quando a declaração está perto de vencer.
 
+## 🎯 Motivação
+
+Na cidade do autor **não existe um aplicativo para recarregar o cartão Vale Sim**. Quem depende do transporte coletivo, principalmente estudantes, precisa se deslocar até um ponto de recarga, o que gera filas, perda de tempo e dificuldade de acesso.
+
+O Recarga Buss nasceu para resolver um problema real da comunidade: levar a recarga para o celular, de forma simples, com pagamento digital, acompanhamento do saldo de passagens e controle do benefício de meia-passagem.
+
+> **Nota:** esta versão é uma prova de conceito. A integração direta com o sistema oficial do cartão Vale Sim (a operadora que realiza a recarga efetiva) é a evolução natural do projeto.
+
 ## ✨ Funcionalidades
 
 - **Cadastro e login** com e-mail e senha (Firebase Authentication), com máscara de CPF e tratamento de erros.
@@ -154,6 +162,7 @@ eas build --platform android --profile preview
 
 ## 🔭 Melhorias futuras
 
+- Integração com o sistema oficial do cartão Vale Sim, para que a recarga seja creditada de fato no cartão físico.
 - Integração real com gateway de pagamento (PIX e cartão).
 - Upload do comprovante de matrícula para o Firebase Storage.
 - Validação do CPF e do cartão.
